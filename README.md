@@ -2,7 +2,8 @@
 
 A Rust-based desktop application for analyzing and visualizing folder sizes, built with `eframe` and `egui`.
 
-![Screenshot](https://via.placeholder.com/800x600) <!-- Add actual screenshot later -->
+![Screenshot](./assets/screenshots/screenshot0.png)
+![Screenshot](./assets/screenshots/screenshot1.png)
 
 ## Features
 - **Directory Scanning**: Scan any directory to analyze its contents
@@ -59,6 +60,6 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [@argos3dworld](https://twitter.com/argos3dworld) - ivar.avello@gmail.com
 
-Project Link: [https://github.com/yourusername/folder-size-analyzer](https://github.com/yourusername/folder-size-analyzer)
+Project Link: [https://github.com/ivar-avello/folder-size-analyzer](https://github.com/ivar-avello/folder-size-analyzer)
