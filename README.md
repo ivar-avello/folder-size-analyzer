@@ -2,16 +2,21 @@
 
 A Rust-based desktop application for analyzing and visualizing folder sizes, built with `eframe` and `egui`.
 
+## Screenshots
+- **Screenshot 1: Bar graph view with light theme**
 ![Screenshot](./assets/screenshots/screenshot0.png)
+- **Screenshot 2: Pie chart view with dark theme**
 ![Screenshot](./assets/screenshots/screenshot1.png)
 
 ## Features
 - **Directory Scanning**: Scan any directory to analyze its contents
+![Screenshot](./assets/screenshots/screenshot3.png)
 - **Visualization**: View folder sizes as pie charts or bar graphs
+![Screenshot](./assets/screenshots/screenshot4.png)
 - **Detailed Listing**: See folder sizes with percentage breakdowns
 - **Clipboard Integration**: Copy folder paths to clipboard
-- **Responsive UI**: Clean, modern interface with proper margins and containers
-- **Tooltips**: Helpful tooltips guide user interactions
+- **Responsive UI**: Clean, modern interface with proper margins and containers that are going to keep improving for a smooth user experience (Pending)
+- **Tooltips**: Helpful tooltips guide user interactions (Pending)
 
 ## Installation
 1. Clone the repository:
