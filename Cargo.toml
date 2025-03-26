@@ -1,0 +1,17 @@
+[package]
+name = "folder-size-analyzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.22.0", features = ["persistence"] }
+egui = "0.22.0"
+arboard = "3.2.0"
+rayon = "1.7.0"
+walkdir = "2.3.3"
+serde = { version = "1.0", features = ["derive"] }
+rfd = "0.12.1"
+
+[dependencies.winapi]
+version = "0.3.9"
+features = ["winuser", "windef"]
