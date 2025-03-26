@@ -72,6 +72,6 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@argos3dworld](https://twitter.com/argos3dworld) - ivar.avello@gmail.com
+RRSS & Email - [@argos3dworld](https://twitter.com/argos3dworld) - ivar.avello@gmail.com
 
 Project Link: [https://github.com/ivar-avello/folder-size-analyzer](https://github.com/ivar-avello/folder-size-analyzer)
