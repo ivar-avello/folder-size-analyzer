@@ -1,8 +1,7 @@
 # Folder Size Analyzer
 
-[![GitHub release](https://img.shields.io/github/release/ivar-avello/folder-size-analyzer.svg)](https://github.com/ivar-avello/folder-size-analyzer/releases)
 [![License](https://img.shields.io/github/license/ivar-avello/folder-size-analyzer.svg)](https://github.com/ivar-avello/folder-size-analyzer/blob/main/LICENSE)
-[![Rust](https://img.shields.io/badge/Rust-1.70+-blue.svg)](https://www.rust-lang.org/)
+[![made on Rust](https://img.shields.io/badge/Rust-1.70+-blue.svg)](https://www.rust-lang.org/)
 [![egui](https://img.shields.io/badge/GUI-egui-orange.svg)](https://github.com/emilk/egui)
 
 [![GitHub issues](https://img.shields.io/github/issues/ivar-avello/folder-size-analyzer.svg)](https://github.com/ivar-avello/folder-size-analyzer/issues)
