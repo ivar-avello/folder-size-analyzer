@@ -1,9 +1,8 @@
 # Folder Size Analyzer
 
 [![License](https://img.shields.io/github/license/ivar-avello/folder-size-analyzer.svg)](https://github.com/ivar-avello/folder-size-analyzer/blob/main/LICENSE)
-[![made on Rust](https://img.shields.io/badge/Rust-1.70+-blue.svg)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.70+-blue.svg)](https://www.rust-lang.org/)
 [![egui](https://img.shields.io/badge/GUI-egui-orange.svg)](https://github.com/emilk/egui)
-
 [![GitHub issues](https://img.shields.io/github/issues/ivar-avello/folder-size-analyzer.svg)](https://github.com/ivar-avello/folder-size-analyzer/issues)
 
 A Rust-based desktop application for analyzing and visualizing folder sizes, built with `eframe` and `egui`.
